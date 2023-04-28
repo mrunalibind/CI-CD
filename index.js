@@ -7,5 +7,7 @@ const str2 = "world"
 console.log(str + " " + str2)
 
 if (str.length > 4) {
-    console.log("truue")
+    console.log("true")
+} else {
+    console.log("false")
 }
